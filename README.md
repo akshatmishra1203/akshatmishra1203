@@ -1,35 +1,80 @@
-<h1 align="center">Hi 👋, I'm Akshat Mishra</h1>
-<h3 align="center">Creative frontend developer from India, building real-world projects with React, JavaScript, and great UI/UX.</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatmishra1203" alt="akshatmishra1203" /></a> </p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio Website</title>
+</head>
 
-<p align="left"> <a href="https://twitter.com/itz_akshattt_" target="blank"><img src="https://img.shields.io/twitter/follow/itz_akshattt_?logo=twitter&style=for-the-badge" alt="itz_akshattt_" /></a> </p>
+<body>
 
-- 🔭 I’m currently working on [Resso](https://github.com/akshatmishra1203/Resso)
+    <header>
 
-- 🌱 I’m currently learning **GSAP Three.js**
+        <a href="#" class="logo">Akshat</a>
 
-- 👯 I’m looking to collaborate on **Website Development**
+        <div class="hamburger">
+            <i class="fas fa-bars"></i>
+        </div>
 
-- 🤝 I’m looking for help with **Frontend Development**
+        <nav>
+            <a href="#" class="active">Home</a>
+            <a href="#">Services</a>
+            <a href="#">Skills</a>
+            <a href="#">Education</a>
+            <a href="#">Experience</a>
+            <a href="#">Contact</a>
+        </nav>
+        
+    </header>
 
-- 💬 Ask me about **React.js**
 
-- 📫 How to reach me **akshatmishra026375@gmail.com**
 
-- ⚡ Fun fact **I function on caffeine and console logs**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itz_akshattt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_akshattt_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/akshat-mishra-7608ab24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshat-mishra-7608ab24a" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatmishra1203&show_icons=true&locale=en&layout=compact" alt="akshatmishra1203" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmishra1203&show_icons=true&locale=en" alt="akshatmishra1203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmishra1203&" alt="akshatmishra1203" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="home">
+        <div class="home-img">
+            <img src="main.png" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Hi, It's <span>Akshat Mishra</span></h1>
+            <h3 class="typing-text">I'm a <span id="typing"></span></h3>
+            <p>
+                A storyteller in code, weaving logic with design. React paints the canvas, Node powers the frame, and MongoDB breathes life into data. Every project becomes a journey—interfaces that speak, systems that scale. With curiosity as fuel, the path of a developer is one of endless creation.
+            </p>
+            <div class="social-icons">
+                <a href="www.linkedin.com/in/akshat-mishra-7608ab24a"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://github.com/akshatmishra1203"><i class="fa-brands fa-github"></i></a>
+                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+            <a href="https://drive.google.com/file/d/14MtrTdMMaQbTAMSshB2W5onta1JDXll2/view?usp=sharing" class="btn">Resume📄</a>
+        </div>
+    </section>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
