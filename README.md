@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatmishra1203&label=Profile%20views&color=0e75b6&style=flat" alt="akshatmishra1203" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatmishra1203" alt="akshatmishra1203" /></a> </p>
-
 - 🔭 I’m currently working on [Resso](https://github.com/akshatmishra1203/Resso)
 
 - 🌱 I’m currently learning **GSAP Three.js**
