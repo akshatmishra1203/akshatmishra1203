@@ -5,15 +5,17 @@
 
 - 🔭 I’m currently working on [Resso](https://github.com/akshatmishra1203/Resso)
 
-- 🌱 I’m currently learning **GSAP Three.js**
+- 🌱 I’m currently learning **Next.js, Three.js, Framer Motion & scalable backend architecture**
 
-- 👯 I’m looking to collaborate on **Website Development**
+- 👯 I’m looking to collaborate on **Startup ideas, SaaS products & open-source MERN projects**
 
-- 🤝 I’m looking for help with **Frontend Development**
+- 🤝 I’m looking for help with **Building modern MERN stack web apps & interactive portfolio projects**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React, MERN stack, UI/UX design & portfolio development**
 
 - 📫 How to reach me **akshatmishra026375@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mzYEBYRc6TSMMjHp0usPqeDYpV3RjEyS/view?usp=sharing](https://drive.google.com/file/d/1mzYEBYRc6TSMMjHp0usPqeDYpV3RjEyS/view?usp=sharing)
 
 - ⚡ Fun fact **I function on caffeine and console logs**
 
