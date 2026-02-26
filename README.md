@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatmishra1203&label=Profile%20views&color=0e75b6&style=flat" alt="akshatmishra1203" /> </p>
 
-- 🔭 I’m currently working on [Resso](https://github.com/akshatmishra1203/Resso)
+- 🔭 I’m currently working on [CloudCast](https://github.com/akshatmishra1203/weather-)
 
 - 🌱 I’m currently learning **Next.js, Three.js, Framer Motion & scalable backend architecture**
 
